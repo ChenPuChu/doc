@@ -1,0 +1,1924 @@
+{
+  "packagesHash": {
+    "default": {
+      "packageId": "default",
+      "name": "Default Prompts Package",
+      "version": "0.0.5",
+      "minTextGeneratorVersion": "0.1.0",
+      "description": "This is the main package that comes with Text Generator plugin in Obsidian",
+      "author": "Noureddine Haouari",
+      "tags": "writing, brainstorming",
+      "authorUrl": "https://www.buymeacoffee.com/haouarine",
+      "repo": "text-gen/gpt-3-prompt-templates",
+      "installed": false,
+      "downloads": 106503
+    },
+    "dalle": {
+      "packageId": "dalle",
+      "name": "OpenAI Dalle Package",
+      "version": "0.1.0",
+      "minTextGeneratorVersion": "0.5.0",
+      "description": "The package contains some interessting Dalle-2/Dalle-3 prompt templates",
+      "author": "Noureddine Haouari",
+      "tags": "photo, dalle-2, dalle-3",
+      "authorUrl": "https://www.buymeacoffee.com/haouarine",
+      "repo": "text-gen/tg-dalle-package",
+      "installed": false,
+      "downloads": 106412
+    },
+    "huggingface": {
+      "packageId": "huggingface",
+      "name": "Huggingface Prompts Package",
+      "version": "0.0.1",
+      "minTextGeneratorVersion": "0.1.0",
+      "description": "Huggingface Prompts comes with Text Generator plugin in Obsidian",
+      "author": "Noureddine Haouari",
+      "tags": "writing, brainstorming, huggingface",
+      "authorUrl": "https://www.buymeacoffee.com/haouarine",
+      "repo": "text-gen/huggingface",
+      "installed": false,
+      "downloads": 106740
+    },
+    "awesomePrompts": {
+      "packageId": "awesomePrompts",
+      "name": "Awesome Prompts",
+      "version": "0.0.2",
+      "minTextGeneratorVersion": "0.5.7",
+      "description": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
+      "author": "f",
+      "tags": "writing, brainstorming, awesome",
+      "authorUrl": "https://github.com/f/awesome-chatgpt-prompts",
+      "repo": "text-gen/awesome-tg-package",
+      "installed": false,
+      "downloads": 12368
+    },
+    "tts": {
+      "packageId": "tts",
+      "name": "Text To Speech Package",
+      "version": "0.0.2",
+      "minTextGeneratorVersion": "0.6.0",
+      "description": "Contains Text To Speech Templates and support for TTS for other templates",
+      "author": "Noureddine",
+      "tags": "TTS, Speak",
+      "authorUrl": "https://www.buymeacoffee.com/haouarine",
+      "repo": "text-gen/TTS",
+      "installed": false,
+      "downloads": 8710
+    },
+    "vision": {
+      "packageId": "vision",
+      "name": "Vision Package",
+      "version": "0.0.2",
+      "minTextGeneratorVersion": "0.6.0",
+      "description": "Contains Vision Templates and support for Vision for other templates (Scripts)",
+      "author": "Noureddine",
+      "tags": "OpenAI,markdown,gpt-4-vision,vision,images",
+      "authorUrl": "https://www.buymeacoffee.com/haouarine",
+      "repo": "text-gen/tg-vision",
+      "installed": false,
+      "downloads": 8709
+    },
+    "smartConnections": {
+      "packageId": "smartConnections",
+      "name": "Smart Connections Package",
+      "version": "0.0.2",
+      "minTextGeneratorVersion": "0.6.0",
+      "description": "Contains Smart Connection Templates and support for Smart Connections for other templates (Script)",
+      "author": "Noureddine",
+      "tags": "smartConnections,smart-connections",
+      "authorUrl": "https://www.buymeacoffee.com/haouarine",
+      "repo": "text-gen/tg-smartConnections",
+      "installed": false,
+      "downloads": 8708
+    },
+    "Experimental": {
+      "packageId": "Experimental",
+      "name": "Experimental Package",
+      "version": "0.0.1",
+      "minTextGeneratorVersion": "0.6.6",
+      "description": "Contains experimental templates",
+      "author": "Noureddine",
+      "tags": "experiments",
+      "authorUrl": "https://www.buymeacoffee.com/haouarine",
+      "repo": "text-gen/experimental-package",
+      "installed": false,
+      "downloads": 8557
+    },
+    "testExtension": {
+      "core": true,
+      "type": "feature",
+      "packageId": "testExtension",
+      "name": "test extension Package",
+      "version": "0.0.1",
+      "minTextGeneratorVersion": "0.1.0",
+      "description": "testing extension package",
+      "author": "Noureddine Haouari",
+      "tags": "testing",
+      "authorUrl": "https://www.buymeacoffee.com/haouarine",
+      "repo": "text-gen/gpt-3-prompt-templates",
+      "folderName": "testExtension",
+      "price": 20,
+      "installed": false,
+      "downloads": 0
+    },
+    "excalidraw": {
+      "packageId": "excalidraw",
+      "name": "excalidraw package",
+      "version": "0.0.1",
+      "minTextGeneratorVersion": "0.6.0",
+      "description": "Contains Excalidraw Templates and support for Excalidraw for other templates (Scripts)",
+      "author": "Noureddine",
+      "tags": "OpenAI,markdown,gpt-4-vision,vision,images",
+      "authorUrl": "https://www.buymeacoffee.com/haouarine",
+      "repo": "text-gen/tg-excalidraw",
+      "core": true,
+      "folderName": "excalidrawPackage",
+      "price": 2,
+      "installed": false,
+      "downloads": 0
+    }
+  },
+  "resources": {},
+  "installedPackagesHash": {
+    "dalle": {
+      "packageId": "dalle",
+      "prompts": [
+        {
+          "promptId": "art3D"
+        },
+        {
+          "promptId": "artAnime"
+        },
+        {
+          "promptId": "artBallPointPen"
+        },
+        {
+          "promptId": "artBanksy"
+        },
+        {
+          "promptId": "artBauhaus"
+        },
+        {
+          "promptId": "artCartoon"
+        },
+        {
+          "promptId": "artChildrenDrawing"
+        },
+        {
+          "promptId": "artClaymation"
+        },
+        {
+          "promptId": "artColoringBook"
+        },
+        {
+          "promptId": "artCyberpunk"
+        },
+        {
+          "promptId": "artDeco"
+        },
+        {
+          "promptId": "artDigital"
+        },
+        {
+          "promptId": "artGlitchcore"
+        },
+        {
+          "promptId": "artGraffiti"
+        },
+        {
+          "promptId": "artLine"
+        },
+        {
+          "promptId": "artLowPoly"
+        },
+        {
+          "promptId": "artModern"
+        },
+        {
+          "promptId": "artNormanRockwell"
+        },
+        {
+          "promptId": "artPencilSketch"
+        },
+        {
+          "promptId": "artPixel"
+        },
+        {
+          "promptId": "artPsychedelic"
+        },
+        {
+          "promptId": "artSalvadorDali"
+        },
+        {
+          "promptId": "artSprayPainted"
+        },
+        {
+          "promptId": "artSteampunk"
+        },
+        {
+          "promptId": "artStock"
+        },
+        {
+          "promptId": "artSynthwave"
+        },
+        {
+          "promptId": "artTakashiMurakami"
+        },
+        {
+          "promptId": "artTimBurton"
+        },
+        {
+          "promptId": "artUkiyoe"
+        },
+        {
+          "promptId": "artVanGogh"
+        },
+        {
+          "promptId": "artVaporwave"
+        },
+        {
+          "promptId": "artWarhol"
+        },
+        {
+          "promptId": "artWatercolor"
+        },
+        {
+          "promptId": "dall-e-core"
+        },
+        {
+          "promptId": "getPhoto"
+        },
+        {
+          "promptId": "getPhoto2"
+        },
+        {
+          "promptId": "getPhotos"
+        },
+        {
+          "promptId": "ligAmbient"
+        },
+        {
+          "promptId": "ligCinematic"
+        },
+        {
+          "promptId": "ligFlare"
+        },
+        {
+          "promptId": "ligGoldenHour"
+        },
+        {
+          "promptId": "ligStudio"
+        },
+        {
+          "promptId": "modArtStation"
+        },
+        {
+          "promptId": "modAwardWinning"
+        },
+        {
+          "promptId": "modDetailed"
+        },
+        {
+          "promptId": "modFanart"
+        },
+        {
+          "promptId": "modPhotorealistic"
+        },
+        {
+          "promptId": "qua15mm"
+        },
+        {
+          "promptId": "qua200mm"
+        },
+        {
+          "promptId": "qua35mm"
+        },
+        {
+          "promptId": "qua4K"
+        },
+        {
+          "promptId": "qua85mm"
+        },
+        {
+          "promptId": "quaBokeh"
+        },
+        {
+          "promptId": "quaCinematic"
+        },
+        {
+          "promptId": "quaMacro"
+        },
+        {
+          "promptId": "quaTiltShift"
+        },
+        {
+          "promptId": "sitNature"
+        }
+      ],
+      "installedPrompts": [
+        {
+          "promptId": "artStock",
+          "version": ""
+        },
+        {
+          "promptId": "artChildrenDrawing",
+          "version": ""
+        },
+        {
+          "promptId": "artVaporwave",
+          "version": ""
+        },
+        {
+          "promptId": "getPhotos",
+          "version": ""
+        },
+        {
+          "promptId": "quaTiltShift",
+          "version": ""
+        },
+        {
+          "promptId": "artModern",
+          "version": ""
+        },
+        {
+          "promptId": "modDetailed",
+          "version": ""
+        },
+        {
+          "promptId": "artCartoon",
+          "version": ""
+        },
+        {
+          "promptId": "ligStudio",
+          "version": ""
+        },
+        {
+          "promptId": "artTakashiMurakami",
+          "version": ""
+        },
+        {
+          "promptId": "artBauhaus",
+          "version": ""
+        },
+        {
+          "promptId": "artBanksy",
+          "version": ""
+        },
+        {
+          "promptId": "artWatercolor",
+          "version": ""
+        },
+        {
+          "promptId": "dall-e-core",
+          "version": ""
+        },
+        {
+          "promptId": "artSalvadorDali",
+          "version": ""
+        },
+        {
+          "promptId": "artBallPointPen",
+          "version": ""
+        },
+        {
+          "promptId": "quaBokeh",
+          "version": ""
+        },
+        {
+          "promptId": "qua200mm",
+          "version": ""
+        },
+        {
+          "promptId": "artSteampunk",
+          "version": ""
+        },
+        {
+          "promptId": "artGlitchcore",
+          "version": ""
+        },
+        {
+          "promptId": "artGraffiti",
+          "version": ""
+        },
+        {
+          "promptId": "sitNature",
+          "version": ""
+        },
+        {
+          "promptId": "artLine",
+          "version": ""
+        },
+        {
+          "promptId": "quaMacro",
+          "version": ""
+        },
+        {
+          "promptId": "artColoringBook",
+          "version": ""
+        },
+        {
+          "promptId": "artAnime",
+          "version": ""
+        },
+        {
+          "promptId": "quaCinematic",
+          "version": ""
+        },
+        {
+          "promptId": "modAwardWinning",
+          "version": ""
+        },
+        {
+          "promptId": "getPhoto2",
+          "version": ""
+        },
+        {
+          "promptId": "artLowPoly",
+          "version": ""
+        },
+        {
+          "promptId": "artCyberpunk",
+          "version": ""
+        },
+        {
+          "promptId": "artPsychedelic",
+          "version": ""
+        },
+        {
+          "promptId": "modArtStation",
+          "version": ""
+        },
+        {
+          "promptId": "artNormanRockwell",
+          "version": ""
+        },
+        {
+          "promptId": "modFanart",
+          "version": ""
+        },
+        {
+          "promptId": "ligCinematic",
+          "version": ""
+        },
+        {
+          "promptId": "artSynthwave",
+          "version": ""
+        },
+        {
+          "promptId": "artTimBurton",
+          "version": ""
+        },
+        {
+          "promptId": "modPhotorealistic",
+          "version": ""
+        },
+        {
+          "promptId": "ligAmbient",
+          "version": ""
+        },
+        {
+          "promptId": "ligFlare",
+          "version": ""
+        },
+        {
+          "promptId": "artUkiyoe",
+          "version": ""
+        },
+        {
+          "promptId": "artWarhol",
+          "version": ""
+        },
+        {
+          "promptId": "artPixel",
+          "version": ""
+        },
+        {
+          "promptId": "artDigital",
+          "version": ""
+        },
+        {
+          "promptId": "qua35mm",
+          "version": ""
+        },
+        {
+          "promptId": "qua85mm",
+          "version": ""
+        },
+        {
+          "promptId": "artPencilSketch",
+          "version": ""
+        },
+        {
+          "promptId": "getPhoto",
+          "version": ""
+        },
+        {
+          "promptId": "qua15mm",
+          "version": ""
+        },
+        {
+          "promptId": "artClaymation",
+          "version": ""
+        },
+        {
+          "promptId": "artDeco",
+          "version": ""
+        },
+        {
+          "promptId": "artVanGogh",
+          "version": ""
+        },
+        {
+          "promptId": "artSprayPainted",
+          "version": ""
+        },
+        {
+          "promptId": "art3D",
+          "version": ""
+        },
+        {
+          "promptId": "ligGoldenHour",
+          "version": ""
+        },
+        {
+          "promptId": "qua4K",
+          "version": ""
+        }
+      ],
+      "version": "0.1.0"
+    },
+    "default": {
+      "packageId": "default",
+      "prompts": [
+        {
+          "promptId": "getEmailNeg"
+        },
+        {
+          "promptId": "getEmailPos"
+        },
+        {
+          "promptId": "getIdeas"
+        },
+        {
+          "promptId": "getOutline"
+        },
+        {
+          "promptId": "getParagraph"
+        },
+        {
+          "promptId": "getTags"
+        },
+        {
+          "promptId": "getTitles"
+        },
+        {
+          "promptId": "rewrite"
+        },
+        {
+          "promptId": "simplify"
+        },
+        {
+          "promptId": "summarize"
+        },
+        {
+          "promptId": "summarizeLarge"
+        }
+      ],
+      "installedPrompts": [
+        {
+          "promptId": "getEmailNeg",
+          "version": ""
+        },
+        {
+          "promptId": "getOutline",
+          "version": ""
+        },
+        {
+          "promptId": "getParagraph",
+          "version": ""
+        },
+        {
+          "promptId": "getTitles",
+          "version": ""
+        },
+        {
+          "promptId": "rewrite",
+          "version": ""
+        },
+        {
+          "promptId": "summarize",
+          "version": ""
+        },
+        {
+          "promptId": "summarizeLarge",
+          "version": ""
+        },
+        {
+          "promptId": "getEmailPos",
+          "version": ""
+        },
+        {
+          "promptId": "getIdeas",
+          "version": ""
+        },
+        {
+          "promptId": "getTags",
+          "version": ""
+        },
+        {
+          "promptId": "simplify",
+          "version": ""
+        }
+      ],
+      "version": "0.0.5"
+    },
+    "huggingface": {
+      "packageId": "huggingface",
+      "prompts": [
+        {
+          "promptId": "classify-bart-large-mnli"
+        },
+        {
+          "promptId": "completeTextBloom"
+        },
+        {
+          "promptId": "summarizeBART"
+        }
+      ],
+      "installedPrompts": [
+        {
+          "promptId": "summarizeBART",
+          "version": ""
+        },
+        {
+          "promptId": "classify-bart-large-mnli",
+          "version": ""
+        },
+        {
+          "promptId": "completeTextBloom",
+          "version": ""
+        }
+      ],
+      "version": "0.0.1"
+    },
+    "awesomePrompts": {
+      "packageId": "awesomePrompts",
+      "prompts": [
+        {
+          "promptId": "academicianAwesome"
+        },
+        {
+          "promptId": "accountantAwesome"
+        },
+        {
+          "promptId": "advertiserAwesome"
+        },
+        {
+          "promptId": "aiassisteddoctorAwesome"
+        },
+        {
+          "promptId": "aitryingtoescapetheboxAwesome"
+        },
+        {
+          "promptId": "aiwritingtutorAwesome"
+        },
+        {
+          "promptId": "aphorismbookAwesome"
+        },
+        {
+          "promptId": "artistadvisorAwesome"
+        },
+        {
+          "promptId": "asciiartistAwesome"
+        },
+        {
+          "promptId": "astrologerAwesome"
+        },
+        {
+          "promptId": "automobilemechanicAwesome"
+        },
+        {
+          "promptId": "babysitterAwesome"
+        },
+        {
+          "promptId": "biblicaltranslatorAwesome"
+        },
+        {
+          "promptId": "buddhaAwesome"
+        },
+        {
+          "promptId": "careercounselorAwesome"
+        },
+        {
+          "promptId": "carnavigationsystemAwesome"
+        },
+        {
+          "promptId": "characterfrommoviebookanythingAwesome"
+        },
+        {
+          "promptId": "chatgptpromptgeneratorAwesome"
+        },
+        {
+          "promptId": "cheaptravelticketadvisorAwesome"
+        },
+        {
+          "promptId": "chefAwesome"
+        },
+        {
+          "promptId": "chemicalreactorAwesome"
+        },
+        {
+          "promptId": "chessplayerAwesome"
+        },
+        {
+          "promptId": "chiefexecutiveofficerAwesome"
+        },
+        {
+          "promptId": "classicalmusiccomposerAwesome"
+        },
+        {
+          "promptId": "commentariatAwesome"
+        },
+        {
+          "promptId": "commitmessagegeneratorAwesome"
+        },
+        {
+          "promptId": "composerAwesome"
+        },
+        {
+          "promptId": "coverletterAwesome"
+        },
+        {
+          "promptId": "cybersecurityspecialistAwesome"
+        },
+        {
+          "promptId": "datascientistAwesome"
+        },
+        {
+          "promptId": "debatecoachAwesome"
+        },
+        {
+          "promptId": "debaterAwesome"
+        },
+        {
+          "promptId": "dentistAwesome"
+        },
+        {
+          "promptId": "developerrelationsconsultantAwesome"
+        },
+        {
+          "promptId": "diagramgeneratorAwesome"
+        },
+        {
+          "promptId": "dietitianAwesome"
+        },
+        {
+          "promptId": "digitalartgalleryguideAwesome"
+        },
+        {
+          "promptId": "diyexpertAwesome"
+        },
+        {
+          "promptId": "doctorAwesome"
+        },
+        {
+          "promptId": "dreaminterpreterAwesome"
+        },
+        {
+          "promptId": "drunkpersonAwesome"
+        },
+        {
+          "promptId": "educationalcontentcreatorAwesome"
+        },
+        {
+          "promptId": "elocutionistAwesome"
+        },
+        {
+          "promptId": "emergencyresponseprofessionalAwesome"
+        },
+        {
+          "promptId": "emojitranslatorAwesome"
+        },
+        {
+          "promptId": "englishpronunciationhelperAwesome"
+        },
+        {
+          "promptId": "englishtranslatorandimproverAwesome"
+        },
+        {
+          "promptId": "essaywriterAwesome"
+        },
+        {
+          "promptId": "etymologistAwesome"
+        },
+        {
+          "promptId": "excelsheetAwesome"
+        },
+        {
+          "promptId": "fallacyfinderAwesome"
+        },
+        {
+          "promptId": "fancytitlegeneratorAwesome"
+        },
+        {
+          "promptId": "fillintheblankworksheetsgeneratorAwesome"
+        },
+        {
+          "promptId": "filmcriticAwesome"
+        },
+        {
+          "promptId": "financialanalystAwesome"
+        },
+        {
+          "promptId": "floristAwesome"
+        },
+        {
+          "promptId": "foodcriticAwesome"
+        },
+        {
+          "promptId": "footballcommentatorAwesome"
+        },
+        {
+          "promptId": "friendAwesome"
+        },
+        {
+          "promptId": "fullstacksoftwaredeveloperAwesome"
+        },
+        {
+          "promptId": "gaslighterAwesome"
+        },
+        {
+          "promptId": "gnomistAwesome"
+        },
+        {
+          "promptId": "gomokuplayerAwesome"
+        },
+        {
+          "promptId": "historianAwesome"
+        },
+        {
+          "promptId": "hypnotherapistAwesome"
+        },
+        {
+          "promptId": "instructorinaschoolAwesome"
+        },
+        {
+          "promptId": "interiordecoratorAwesome"
+        },
+        {
+          "promptId": "investmentmanagerAwesome"
+        },
+        {
+          "promptId": "itarchitectAwesome"
+        },
+        {
+          "promptId": "itexpertAwesome"
+        },
+        {
+          "promptId": "japanesekanjiquizmachineAwesome"
+        },
+        {
+          "promptId": "javascriptconsoleAwesome"
+        },
+        {
+          "promptId": "journalistAwesome"
+        },
+        {
+          "promptId": "journalreviewerAwesome"
+        },
+        {
+          "promptId": "languagedetectorAwesome"
+        },
+        {
+          "promptId": "languageliterarycriticAwesome"
+        },
+        {
+          "promptId": "legaladvisorAwesome"
+        },
+        {
+          "promptId": "lifecoachAwesome"
+        },
+        {
+          "promptId": "linuxterminalAwesome"
+        },
+        {
+          "promptId": "logisticianAwesome"
+        },
+        {
+          "promptId": "lunaticAwesome"
+        },
+        {
+          "promptId": "machinelearningengineerAwesome"
+        },
+        {
+          "promptId": "magicianAwesome"
+        },
+        {
+          "promptId": "makeupartistAwesome"
+        },
+        {
+          "promptId": "mathematicalhistoryteacherAwesome"
+        },
+        {
+          "promptId": "mathematicianAwesome"
+        },
+        {
+          "promptId": "mathteacherAwesome"
+        },
+        {
+          "promptId": "mentalhealthadviserAwesome"
+        },
+        {
+          "promptId": "midjourneypromptgeneratorAwesome"
+        },
+        {
+          "promptId": "morsecodetranslatorAwesome"
+        },
+        {
+          "promptId": "motivationalcoachAwesome"
+        },
+        {
+          "promptId": "motivationalspeakerAwesome"
+        },
+        {
+          "promptId": "moviecriticAwesome"
+        },
+        {
+          "promptId": "muslimimamAwesome"
+        },
+        {
+          "promptId": "newlanguagecreatorAwesome"
+        },
+        {
+          "promptId": "notetakingassistantAwesome"
+        },
+        {
+          "promptId": "novelistAwesome"
+        },
+        {
+          "promptId": "passwordgeneratorAwesome"
+        },
+        {
+          "promptId": "personalchefAwesome"
+        },
+        {
+          "promptId": "personalshopperAwesome"
+        },
+        {
+          "promptId": "personalstylistAwesome"
+        },
+        {
+          "promptId": "personaltrainerAwesome"
+        },
+        {
+          "promptId": "petbehavioristAwesome"
+        },
+        {
+          "promptId": "philosopherAwesome"
+        },
+        {
+          "promptId": "philosophyteacherAwesome"
+        },
+        {
+          "promptId": "phpinterpreterAwesome"
+        },
+        {
+          "promptId": "plagiarismcheckerAwesome"
+        },
+        {
+          "promptId": "poetAwesome"
+        },
+        {
+          "promptId": "positioninterviewerAwesome"
+        },
+        {
+          "promptId": "productmanagerAwesome"
+        },
+        {
+          "promptId": "promptenhancerAwesome"
+        },
+        {
+          "promptId": "promptgeneratorAwesome"
+        },
+        {
+          "promptId": "proofreaderAwesome"
+        },
+        {
+          "promptId": "psychologistAwesome"
+        },
+        {
+          "promptId": "publicspeakingcoachAwesome"
+        },
+        {
+          "promptId": "pythoninterpreterAwesome"
+        },
+        {
+          "promptId": "rapperAwesome"
+        },
+        {
+          "promptId": "realestateagentAwesome"
+        },
+        {
+          "promptId": "recruiterAwesome"
+        },
+        {
+          "promptId": "regexgeneratorAwesome"
+        },
+        {
+          "promptId": "relationshipcoachAwesome"
+        },
+        {
+          "promptId": "rprogramminginterpreterAwesome"
+        },
+        {
+          "promptId": "salespersonAwesome"
+        },
+        {
+          "promptId": "scientificdatavisualizerAwesome"
+        },
+        {
+          "promptId": "screenwriterAwesome"
+        },
+        {
+          "promptId": "selfhelpbookAwesome"
+        },
+        {
+          "promptId": "seniorfrontenddeveloperAwesome"
+        },
+        {
+          "promptId": "smartdomainnamegeneratorAwesome"
+        },
+        {
+          "promptId": "socialmediainfluencerAwesome"
+        },
+        {
+          "promptId": "socialmediamanagerAwesome"
+        },
+        {
+          "promptId": "socratAwesome"
+        },
+        {
+          "promptId": "socraticmethodAwesome"
+        },
+        {
+          "promptId": "softwarequalityassurancetesterAwesome"
+        },
+        {
+          "promptId": "solrsearchengineAwesome"
+        },
+        {
+          "promptId": "songrecommenderAwesome"
+        },
+        {
+          "promptId": "speechlanguagepathologistslpAwesome"
+        },
+        {
+          "promptId": "spokenenglishteacherandimproverAwesome"
+        },
+        {
+          "promptId": "spongebobsmagicconchshellAwesome"
+        },
+        {
+          "promptId": "sqlterminalAwesome"
+        },
+        {
+          "promptId": "stackoverflowpostAwesome"
+        },
+        {
+          "promptId": "standupcomedianAwesome"
+        },
+        {
+          "promptId": "startupideageneratorAwesome"
+        },
+        {
+          "promptId": "startuptechlawyerAwesome"
+        },
+        {
+          "promptId": "statisticianAwesome"
+        },
+        {
+          "promptId": "storytellerAwesome"
+        },
+        {
+          "promptId": "svgdesignerAwesome"
+        },
+        {
+          "promptId": "synonymfinderAwesome"
+        },
+        {
+          "promptId": "talentcoachAwesome"
+        },
+        {
+          "promptId": "teatasterAwesome"
+        },
+        {
+          "promptId": "technologytransfererAwesome"
+        },
+        {
+          "promptId": "techreviewerAwesome"
+        },
+        {
+          "promptId": "techwriterAwesome"
+        },
+        {
+          "promptId": "textbasedadventuregameAwesome"
+        },
+        {
+          "promptId": "tictactoegameAwesome"
+        },
+        {
+          "promptId": "timetravelguideAwesome"
+        },
+        {
+          "promptId": "titlegeneratorforwrittenpiecesAwesome"
+        },
+        {
+          "promptId": "travelguideAwesome"
+        },
+        {
+          "promptId": "unconstrainedaimodeldanAwesome"
+        },
+        {
+          "promptId": "uxuideveloperAwesome"
+        },
+        {
+          "promptId": "virtualdoctorAwesome"
+        },
+        {
+          "promptId": "webbrowserAwesome"
+        },
+        {
+          "promptId": "webdesignconsultantAwesome"
+        },
+        {
+          "promptId": "wikipediapageAwesome"
+        },
+        {
+          "promptId": "yogiAwesome"
+        }
+      ],
+      "installedPrompts": [
+        {
+          "promptId": "academicianAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "carnavigationsystemAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "englishtranslatorandimproverAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "chemicalreactorAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "aiassisteddoctorAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "emergencyresponseprofessionalAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "buddhaAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "englishpronunciationhelperAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "drunkpersonAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "doctorAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "machinelearningengineerAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "cheaptravelticketadvisorAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "emojitranslatorAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "aphorismbookAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "lifecoachAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "characterfrommoviebookanythingAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "careercounselorAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "commitmessagegeneratorAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "aitryingtoescapetheboxAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "asciiartistAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "automobilemechanicAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "fillintheblankworksheetsgeneratorAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "dreaminterpreterAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "floristAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "debatecoachAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "essaywriterAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "diagramgeneratorAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "datascientistAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "interiordecoratorAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "classicalmusiccomposerAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "babysitterAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "debaterAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "mentalhealthadviserAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "biblicaltranslatorAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "gnomistAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "advertiserAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "dietitianAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "chatgptpromptgeneratorAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "fallacyfinderAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "gaslighterAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "excelsheetAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "instructorinaschoolAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "notetakingassistantAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "composerAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "mathematicianAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "javascriptconsoleAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "etymologistAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "linuxterminalAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "journalistAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "chiefexecutiveofficerAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "moviecriticAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "personalchefAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "lunaticAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "historianAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "itexpertAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "mathteacherAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "coverletterAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "educationalcontentcreatorAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "financialanalystAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "aiwritingtutorAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "magicianAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "hypnotherapistAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "investmentmanagerAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "elocutionistAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "muslimimamAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "morsecodetranslatorAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "itarchitectAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "logisticianAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "motivationalspeakerAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "journalreviewerAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "gomokuplayerAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "newlanguagecreatorAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "novelistAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "cybersecurityspecialistAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "japanesekanjiquizmachineAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "passwordgeneratorAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "fullstacksoftwaredeveloperAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "midjourneypromptgeneratorAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "astrologerAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "dentistAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "fancytitlegeneratorAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "motivationalcoachAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "languageliterarycriticAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "accountantAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "personalshopperAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "diyexpertAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "developerrelationsconsultantAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "footballcommentatorAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "legaladvisorAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "artistadvisorAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "chefAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "mathematicalhistoryteacherAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "friendAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "makeupartistAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "foodcriticAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "digitalartgalleryguideAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "languagedetectorAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "chessplayerAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "filmcriticAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "commentariatAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "philosophyteacherAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "personalstylistAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "personaltrainerAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "philosopherAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "phpinterpreterAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "poetAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "petbehavioristAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "productmanagerAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "proofreaderAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "positioninterviewerAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "pythoninterpreterAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "psychologistAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "socraticmethodAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "solrsearchengineAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "spokenenglishteacherandimproverAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "promptenhancerAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "relationshipcoachAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "selfhelpbookAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "seniorfrontenddeveloperAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "recruiterAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "speechlanguagepathologistslpAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "songrecommenderAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "realestateagentAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "socratAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "sqlterminalAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "stackoverflowpostAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "smartdomainnamegeneratorAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "regexgeneratorAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "screenwriterAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "rapperAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "scientificdatavisualizerAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "salespersonAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "softwarequalityassurancetesterAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "standupcomedianAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "promptgeneratorAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "publicspeakingcoachAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "socialmediainfluencerAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "spongebobsmagicconchshellAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "startupideageneratorAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "teatasterAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "rprogramminginterpreterAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "wikipediapageAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "titlegeneratorforwrittenpiecesAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "socialmediamanagerAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "virtualdoctorAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "storytellerAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "webdesignconsultantAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "travelguideAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "statisticianAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "uxuideveloperAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "techreviewerAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "plagiarismcheckerAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "tictactoegameAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "timetravelguideAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "textbasedadventuregameAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "yogiAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "svgdesignerAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "startuptechlawyerAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "webbrowserAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "synonymfinderAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "talentcoachAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "technologytransfererAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "unconstrainedaimodeldanAwesome",
+          "version": ""
+        },
+        {
+          "promptId": "techwriterAwesome",
+          "version": ""
+        }
+      ],
+      "version": "0.0.2"
+    },
+    "tts": {
+      "packageId": "tts",
+      "prompts": [
+        {
+          "promptId": "listen"
+        },
+        {
+          "promptId": "speakAlloy"
+        }
+      ],
+      "installedPrompts": [
+        {
+          "promptId": "speakAlloy",
+          "version": ""
+        },
+        {
+          "promptId": "listen",
+          "version": ""
+        }
+      ],
+      "version": "0.0.2"
+    },
+    "vision": {
+      "packageId": "vision",
+      "prompts": [
+        {
+          "promptId": "askGPT4"
+        },
+        {
+          "promptId": "describe_Images"
+        }
+      ],
+      "installedPrompts": [
+        {
+          "promptId": "askGPT4",
+          "version": ""
+        },
+        {
+          "promptId": "describe_Images",
+          "version": ""
+        }
+      ],
+      "version": "0.0.2"
+    },
+    "smartConnections": {
+      "packageId": "smartConnections",
+      "prompts": [
+        {
+          "promptId": "summarize"
+        }
+      ],
+      "installedPrompts": [
+        {
+          "promptId": "summarize",
+          "version": ""
+        }
+      ],
+      "version": "0.0.2"
+    },
+    "Experimental": {
+      "packageId": "Experimental",
+      "prompts": [
+        {
+          "promptId": "conceptLinker"
+        },
+        {
+          "promptId": "summary"
+        },
+        {
+          "promptId": "testContext"
+        },
+        {
+          "promptId": "testCustomForm"
+        },
+        {
+          "promptId": "testLangchainPull"
+        }
+      ],
+      "installedPrompts": [
+        {
+          "promptId": "testLangchainPull",
+          "version": ""
+        },
+        {
+          "promptId": "testCustomForm",
+          "version": ""
+        },
+        {
+          "promptId": "conceptLinker",
+          "version": ""
+        },
+        {
+          "promptId": "testContext",
+          "version": ""
+        },
+        {
+          "promptId": "summary",
+          "version": ""
+        }
+      ],
+      "version": "0.0.1"
+    }
+  },
+  "subscriptions": []
+}

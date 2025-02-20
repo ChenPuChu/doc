@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "64a6f01a67c7a05e",
+    "type": "split",
+    "children": [
+      {
+        "id": "965ac8d8361e81f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4626d26e88bc0beb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e69962d2d53fc2c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "6268c784ade9e775",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "793bf92be4ad1e8f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "216907a4a2fbb92f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "6b60bf01d7ea37ee",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "dce949218fa26760",
+    "type": "split",
+    "children": [
+      {
+        "id": "30b18b9a72ac476c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9e26722736cfff1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "598125fc4b328988",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "欢迎.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "欢迎 的出链列表"
+            }
+          },
+          {
+            "id": "2721da4a68d16018",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "e21a57e54ee93394",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "欢迎.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "欢迎 的大纲"
+            }
+          },
+          {
+            "id": "ef54d39a521d6425",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "6f28ba905e9b4bfd",
+            "type": "leaf",
+            "state": {
+              "type": "smtcmp-chat-view",
+              "state": {},
+              "icon": "wand-sparkles",
+              "title": "Smart composer chat"
+            }
+          },
+          {
+            "id": "67f9d80b93aa5986",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 458.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "copilot:Open Copilot Chat": false,
+      "smart-composer:Open smart composer": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "4626d26e88bc0beb",
+  "lastOpenFiles": [
+    "冒泡排序.md",
+    "个人主页.md",
+    "模版/实验记录模版.md",
+    "模版",
+    "background.jpeg",
+    "PPT测试.md",
+    "芙蕖.jpeg",
+    "textgenerator/templates/dalle/artStock.md",
+    "textgenerator/templates/huggingface/summarizeBART.md",
+    "textgenerator/templates/awesomePrompts/doctorAwesome.md",
+    "textgenerator/templates/awesomePrompts/gnomistAwesome.md",
+    "textgenerator/templates/awesomePrompts/classicalmusiccomposerAwesome.md",
+    "textgenerator/templates/dalle/getPhoto.md",
+    "textgenerator/templates/dalle/artDigital.md",
+    "textgenerator/templates/dalle/artColoringBook.md",
+    "textgenerator/templates/dalle/ligStudio.md",
+    "textgenerator/templates/dalle/getPhotos.md",
+    "textgenerator/templates/dalle/artVaporwave.md",
+    "textgenerator/templates/dalle/quaTiltShift.md",
+    "外部资料/1602A资料.md",
+    "外部资料/1602A资料.pdf",
+    "Linux内核开发/gpio驱动/1602A.md",
+    "copilot-conversations/你好@20250221_002708.md",
+    "外部资料/1602A使用说明书.pdf",
+    "copilot-conversations/[[1602A资料]][[外部资料Linux内核Linux_Device_Drivers_(Jonathan_Corbet,_Alessandro_Rubini_etc.)_(Z-Library).p@20250221_002608.md",
+    "copilot-conversations/[[外部资料1602A使用说明书.pdf]][[外部资料嵌入式Linux设备驱动程序开发指南(原书第2版)2021【文字版】_(机械工业出版社)_(Z-Library).pdf]]我现在需要在Linu@20250220_231402.md",
+    "外部资料/tcp/Computer Networking A Top-Down Approach (James F. Kurose, Keith W. Ross) (Z-Library).pdf",
+    "外部资料/tcp/TCPIP Illustrated, Volume 1 The Protocols (W. Richard Stevens) (Z-Library).pdf",
+    "外部资料/tcp/TCPIP Illustrated. vol. 2 The Implementation (Gary R. Wright, W. Richard Stevens) (Z-Library).pdf",
+    "外部资料/tcp/Understanding Linux network internals (Christian Benvenuti) (Z-Library).pdf",
+    "外部资料/tcp/UNIX Network Programming, Volume 1 The Sockets Networking API, 3rd Edition (W. Richard Stevens, Bill Fenner etc.) (Z-Library).pdf",
+    "外部资料/tcp/The Linux programming interface a Linux and UNIX system programming handbook (Michael Kerrisk) (Z-Library).pdf",
+    "外部资料/tcp",
+    "copilot-conversations/我这面有一个文件，需要你进行分析，我该如何操作@20250220_223527.md",
+    "未命名.canvas",
+    "Excalidraw/Drawing 2025-02-20 23.05.13.excalidraw.md",
+    "textgenerator/templates/awesomePrompts/diyexpertAwesome.md",
+    "textgenerator/templates/awesomePrompts/mathematicalhistoryteacherAwesome.md",
+    "textgenerator/templates/dalle/artChildrenDrawing.md"
+  ]
+}
