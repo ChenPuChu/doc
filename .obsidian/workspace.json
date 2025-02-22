@@ -11,14 +11,12 @@
             "id": "f6ac7c2cd5c73e84",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "epub",
               "state": {
-                "file": "Linux内核开发/gpio驱动/1602A.md",
-                "mode": "source",
-                "source": false
+                "file": "外部资料/Linux内核/Intel 80386 程序员参考手册 (it-ebooks) (Z-Library).epub"
               },
-              "icon": "lucide-file",
-              "title": "1602A"
+              "icon": "doc-epub",
+              "title": "Intel 80386 程序员参考手册 (it-ebooks) (Z-Library)"
             }
           }
         ]
@@ -78,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5,
-    "collapsed": true
+    "width": 340.5
   },
   "right": {
     "id": "dce949218fa26760",
@@ -168,8 +165,8 @@
             "state": {
               "type": "smtcmp-chat-view",
               "state": {},
-              "icon": "wand-sparkles",
-              "title": "Smart composer chat"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -183,11 +180,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 1138.5
+    "width": 421.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,25 +194,29 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "copilot:Open Copilot Chat": false,
       "smart-composer:Open smart composer": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "obsidian-git:Open Git source control": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "f6ac7c2cd5c73e84",
   "lastOpenFiles": [
-    "外部资料/1602A资料.md",
+    "外部资料/Linux内核/x86汇编语言：从实模式到保护模式（第2版）离线图片加完整书签，并且去重，重新制作 (李忠 王晓波 余洁) (Z-Library).pdf",
+    "PPT测试.md",
+    "外部资料/Linux内核/C和指针 (里科) (Z-Library).pdf",
+    "外部资料/Linux内核/Intel 80386 程序员参考手册 (it-ebooks) (Z-Library).epub",
+    "外部资料/Linux内核/80x86保护模式系列教程 (it-ebooks) (Z-Library).epub",
     "Linux内核开发/gpio驱动/1602A.md",
+    "外部资料/1602A资料.md",
     "background.jpeg",
     "copilot-conversations/[[1602A]]整理一下这个文档@20250221_025604.md",
     "copilot-conversations",
     "冒泡排序.md",
-    "PPT测试.md",
     "textgenerator/templates/awesomePrompts/developerrelationsconsultantAwesome.md",
     "textgenerator/templates/default/summarize.md",
     "textgenerator/templates/smartConnections/summarize.md",
@@ -242,10 +243,6 @@
     "外部资料/1602A资料.pdf",
     "外部资料/1602A使用说明书.pdf",
     "外部资料/tcp/Computer Networking A Top-Down Approach (James F. Kurose, Keith W. Ross) (Z-Library).pdf",
-    "外部资料/tcp/TCPIP Illustrated, Volume 1 The Protocols (W. Richard Stevens) (Z-Library).pdf",
-    "外部资料/tcp/TCPIP Illustrated. vol. 2 The Implementation (Gary R. Wright, W. Richard Stevens) (Z-Library).pdf",
-    "外部资料/tcp/Understanding Linux network internals (Christian Benvenuti) (Z-Library).pdf",
-    "外部资料/tcp/UNIX Network Programming, Volume 1 The Sockets Networking API, 3rd Edition (W. Richard Stevens, Bill Fenner etc.) (Z-Library).pdf",
     "未命名.canvas"
   ]
 }
