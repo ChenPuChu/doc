@@ -185,21 +185,23 @@
     {
       "providerType": "ollama",
       "providerId": "ollama",
-      "id": "deepseek-v2:16b",
-      "model": "deepseek-v2:16b",
-      "dimension": 2048
+      "id": "bge-m3:567m",
+      "model": "bge-m3:567m",
+      "dimension": 1024
     }
   ],
   "chatModelId": "deepseek-v2:16b",
   "applyModelId": "deepseek-v2:16b",
-  "embeddingModelId": "deepseek-v2:16b",
-  "systemPrompt": "",
+  "embeddingModelId": "bge-m3:567m",
+  "systemPrompt": "用中文回答",
   "ragOptions": {
     "chunkSize": 1000,
     "thresholdTokens": 8192,
     "minSimilarity": 0,
     "limit": 10,
-    "excludePatterns": [],
+    "excludePatterns": [
+      "textgenerator/templates/smartConnections/*"
+    ],
     "includePatterns": []
   }
 }

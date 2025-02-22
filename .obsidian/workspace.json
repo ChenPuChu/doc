@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "965ac8d8361e81f7",
+        "id": "07d6149373097265",
         "type": "tabs",
         "children": [
           {
-            "id": "4626d26e88bc0beb",
+            "id": "f6ac7c2cd5c73e84",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Linux内核开发/gpio驱动/1602A.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "1602A"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 340.5,
+    "collapsed": true
   },
   "right": {
     "id": "dce949218fa26760",
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linux内核开发/gpio驱动/1602A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "1602A 的反向链接列表"
             }
           },
           {
@@ -137,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎.md",
+                "file": "Linux内核开发/gpio驱动/1602A.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "欢迎 的大纲"
+              "title": "1602A 的大纲"
             }
           },
           {
@@ -181,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 458.5,
-    "collapsed": true
+    "width": 1138.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,20 +201,31 @@
       "smart-composer:Open smart composer": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "4626d26e88bc0beb",
+  "active": "f6ac7c2cd5c73e84",
   "lastOpenFiles": [
+    "外部资料/1602A资料.md",
+    "Linux内核开发/gpio驱动/1602A.md",
+    "background.jpeg",
+    "copilot-conversations/[[1602A]]整理一下这个文档@20250221_025604.md",
+    "copilot-conversations",
     "冒泡排序.md",
+    "PPT测试.md",
+    "textgenerator/templates/awesomePrompts/developerrelationsconsultantAwesome.md",
+    "textgenerator/templates/default/summarize.md",
+    "textgenerator/templates/smartConnections/summarize.md",
+    "Excalidraw/Drawing 2025-02-20 23.05.13.excalidraw.md",
+    "textgenerator/templates/awesomePrompts/aitryingtoescapetheboxAwesome.md",
+    "textgenerator/templates/default/simplify.md",
+    "外部资料/嵌入式Linux设备驱动程序开发指南(原书第2版)2021【文字版】 (机械工业出版社) (Z-Library).pdf",
     "个人主页.md",
     "模版/实验记录模版.md",
     "模版",
-    "background.jpeg",
-    "PPT测试.md",
     "芙蕖.jpeg",
     "textgenerator/templates/dalle/artStock.md",
     "textgenerator/templates/huggingface/summarizeBART.md",
@@ -223,25 +239,13 @@
     "textgenerator/templates/dalle/getPhotos.md",
     "textgenerator/templates/dalle/artVaporwave.md",
     "textgenerator/templates/dalle/quaTiltShift.md",
-    "外部资料/1602A资料.md",
     "外部资料/1602A资料.pdf",
-    "Linux内核开发/gpio驱动/1602A.md",
-    "copilot-conversations/你好@20250221_002708.md",
     "外部资料/1602A使用说明书.pdf",
-    "copilot-conversations/[[1602A资料]][[外部资料Linux内核Linux_Device_Drivers_(Jonathan_Corbet,_Alessandro_Rubini_etc.)_(Z-Library).p@20250221_002608.md",
-    "copilot-conversations/[[外部资料1602A使用说明书.pdf]][[外部资料嵌入式Linux设备驱动程序开发指南(原书第2版)2021【文字版】_(机械工业出版社)_(Z-Library).pdf]]我现在需要在Linu@20250220_231402.md",
     "外部资料/tcp/Computer Networking A Top-Down Approach (James F. Kurose, Keith W. Ross) (Z-Library).pdf",
     "外部资料/tcp/TCPIP Illustrated, Volume 1 The Protocols (W. Richard Stevens) (Z-Library).pdf",
     "外部资料/tcp/TCPIP Illustrated. vol. 2 The Implementation (Gary R. Wright, W. Richard Stevens) (Z-Library).pdf",
     "外部资料/tcp/Understanding Linux network internals (Christian Benvenuti) (Z-Library).pdf",
     "外部资料/tcp/UNIX Network Programming, Volume 1 The Sockets Networking API, 3rd Edition (W. Richard Stevens, Bill Fenner etc.) (Z-Library).pdf",
-    "外部资料/tcp/The Linux programming interface a Linux and UNIX system programming handbook (Michael Kerrisk) (Z-Library).pdf",
-    "外部资料/tcp",
-    "copilot-conversations/我这面有一个文件，需要你进行分析，我该如何操作@20250220_223527.md",
-    "未命名.canvas",
-    "Excalidraw/Drawing 2025-02-20 23.05.13.excalidraw.md",
-    "textgenerator/templates/awesomePrompts/diyexpertAwesome.md",
-    "textgenerator/templates/awesomePrompts/mathematicalhistoryteacherAwesome.md",
-    "textgenerator/templates/dalle/artChildrenDrawing.md"
+    "未命名.canvas"
   ]
 }
