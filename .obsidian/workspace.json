@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "07d6149373097265",
+        "id": "ff09d7b18ca4ea84",
         "type": "tabs",
         "children": [
           {
-            "id": "f6ac7c2cd5c73e84",
+            "id": "c05aa576f98b4ee4",
             "type": "leaf",
             "state": {
-              "type": "epub",
+              "type": "pdf",
               "state": {
-                "file": "外部资料/Linux内核/Intel 80386 程序员参考手册 (it-ebooks) (Z-Library).epub"
+                "file": "外部资料/Linux内核/x86汇编语言：从实模式到保护模式（第2版）离线图片加完整书签，并且去重，重新制作 (李忠 王晓波 余洁) (Z-Library).pdf"
               },
-              "icon": "doc-epub",
-              "title": "Intel 80386 程序员参考手册 (it-ebooks) (Z-Library)"
+              "icon": "lucide-file-text",
+              "title": "x86汇编语言：从实模式到保护模式（第2版）离线图片加完整书签，并且去重，重新制作 (李忠 王晓波 余洁) (Z-Library)"
             }
           }
         ]
@@ -204,13 +204,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6ac7c2cd5c73e84",
+  "active": "c05aa576f98b4ee4",
   "lastOpenFiles": [
-    "外部资料/Linux内核/x86汇编语言：从实模式到保护模式（第2版）离线图片加完整书签，并且去重，重新制作 (李忠 王晓波 余洁) (Z-Library).pdf",
-    "PPT测试.md",
-    "外部资料/Linux内核/C和指针 (里科) (Z-Library).pdf",
-    "外部资料/Linux内核/Intel 80386 程序员参考手册 (it-ebooks) (Z-Library).epub",
     "外部资料/Linux内核/80x86保护模式系列教程 (it-ebooks) (Z-Library).epub",
+    "外部资料/Linux内核/Intel 80386 程序员参考手册 (it-ebooks) (Z-Library).epub",
+    "外部资料/Linux内核/x86汇编语言：从实模式到保护模式（第2版）离线图片加完整书签，并且去重，重新制作 (李忠 王晓波 余洁) (Z-Library).pdf",
+    "外部资料/Linux内核/C和指针 (里科) (Z-Library).pdf",
+    "PPT测试.md",
     "Linux内核开发/gpio驱动/1602A.md",
     "外部资料/1602A资料.md",
     "background.jpeg",
