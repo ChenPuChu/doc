@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ff09d7b18ca4ea84",
+        "id": "706625a8b60d2a38",
         "type": "tabs",
         "children": [
           {
-            "id": "c05aa576f98b4ee4",
+            "id": "8114516ae320fcfd",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -18,8 +18,23 @@
               "icon": "lucide-file-text",
               "title": "x86汇编语言：从实模式到保护模式（第2版）离线图片加完整书签，并且去重，重新制作 (李忠 王晓波 余洁) (Z-Library)"
             }
+          },
+          {
+            "id": "a067a92ffda076ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux内核开发/内核开发/01-BIOS相关资料.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-BIOS相关资料"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 340.5,
+    "collapsed": true
   },
   "right": {
     "id": "dce949218fa26760",
@@ -184,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421.5
+    "width": 421.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,11 +221,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c05aa576f98b4ee4",
+  "active": "a067a92ffda076ef",
   "lastOpenFiles": [
+    "外部资料/Linux内核/x86汇编语言：从实模式到保护模式（第2版）离线图片加完整书签，并且去重，重新制作 (李忠 王晓波 余洁) (Z-Library).pdf",
+    "Linux内核开发/内核开发/01-BIOS相关资料.md",
+    "Linux内核开发/内核开发/04-终端显示颜色.md",
+    "Linux内核开发/内核开发/03-GDT全局表述符.md",
+    "Linux内核开发/内核开发/00-NASM汇编语言中的高级操作.md",
+    "Linux内核开发/内核开发/ShiMoShiNeiCunFenBu.png",
+    "Linux内核开发/内核开发/DuanXuanZeZi.png",
+    "Linux内核开发/内核开发/DuanMiaoShuFuYuNeiCunDuanDeGuanXi.png",
+    "Linux内核开发/内核开发/DuanMiaoShuFuGeShi.png",
+    "Linux内核开发/内核开发/02-ASCII码表.md",
+    "Linux内核开发/内核开发",
+    "Linux内核开发/未命名文件夹",
     "外部资料/Linux内核/80x86保护模式系列教程 (it-ebooks) (Z-Library).epub",
     "外部资料/Linux内核/Intel 80386 程序员参考手册 (it-ebooks) (Z-Library).epub",
-    "外部资料/Linux内核/x86汇编语言：从实模式到保护模式（第2版）离线图片加完整书签，并且去重，重新制作 (李忠 王晓波 余洁) (Z-Library).pdf",
     "外部资料/Linux内核/C和指针 (里科) (Z-Library).pdf",
     "PPT测试.md",
     "Linux内核开发/gpio驱动/1602A.md",
@@ -235,14 +263,7 @@
     "textgenerator/templates/awesomePrompts/classicalmusiccomposerAwesome.md",
     "textgenerator/templates/dalle/getPhoto.md",
     "textgenerator/templates/dalle/artDigital.md",
-    "textgenerator/templates/dalle/artColoringBook.md",
-    "textgenerator/templates/dalle/ligStudio.md",
-    "textgenerator/templates/dalle/getPhotos.md",
-    "textgenerator/templates/dalle/artVaporwave.md",
-    "textgenerator/templates/dalle/quaTiltShift.md",
     "外部资料/1602A资料.pdf",
-    "外部资料/1602A使用说明书.pdf",
-    "外部资料/tcp/Computer Networking A Top-Down Approach (James F. Kurose, Keith W. Ross) (Z-Library).pdf",
     "未命名.canvas"
   ]
 }
