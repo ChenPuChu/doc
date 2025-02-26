@@ -11,18 +11,6 @@
             "id": "8114516ae320fcfd",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "外部资料/Linux内核/x86汇编语言：从实模式到保护模式（第2版）离线图片加完整书签，并且去重，重新制作 (李忠 王晓波 余洁) (Z-Library).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "x86汇编语言：从实模式到保护模式（第2版）离线图片加完整书签，并且去重，重新制作 (李忠 王晓波 余洁) (Z-Library)"
-            }
-          },
-          {
-            "id": "a067a92ffda076ef",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Linux内核开发/内核开发/01-BIOS相关资料.md",
@@ -31,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "01-BIOS相关资料"
+            }
+          },
+          {
+            "id": "a067a92ffda076ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux内核开发/内核开发/04-IDT中断描述符表.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04-IDT中断描述符表"
             }
           }
         ],
@@ -91,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5,
+    "width": 311.5,
     "collapsed": true
   },
   "right": {
@@ -223,16 +225,17 @@
   },
   "active": "a067a92ffda076ef",
   "lastOpenFiles": [
-    "外部资料/Linux内核/x86汇编语言：从实模式到保护模式（第2版）离线图片加完整书签，并且去重，重新制作 (李忠 王晓波 余洁) (Z-Library).pdf",
     "Linux内核开发/内核开发/01-BIOS相关资料.md",
-    "Linux内核开发/内核开发/04-终端显示颜色.md",
+    "Linux内核开发/内核开发/04-IDT中断描述符表.md",
+    "Linux内核开发/内核开发/02-ASCII码表.md",
     "Linux内核开发/内核开发/03-GDT全局表述符.md",
+    "外部资料/Linux内核/x86汇编语言：从实模式到保护模式（第2版）离线图片加完整书签，并且去重，重新制作 (李忠 王晓波 余洁) (Z-Library).pdf",
+    "Linux内核开发/内核开发/04-终端显示颜色.md",
     "Linux内核开发/内核开发/00-NASM汇编语言中的高级操作.md",
     "Linux内核开发/内核开发/ShiMoShiNeiCunFenBu.png",
     "Linux内核开发/内核开发/DuanXuanZeZi.png",
     "Linux内核开发/内核开发/DuanMiaoShuFuYuNeiCunDuanDeGuanXi.png",
     "Linux内核开发/内核开发/DuanMiaoShuFuGeShi.png",
-    "Linux内核开发/内核开发/02-ASCII码表.md",
     "Linux内核开发/内核开发",
     "Linux内核开发/未命名文件夹",
     "外部资料/Linux内核/80x86保护模式系列教程 (it-ebooks) (Z-Library).epub",
